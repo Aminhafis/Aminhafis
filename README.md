@@ -15,17 +15,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aminhafis&theme=radical" height="185"/>
 </p>
 
-<p align="center">
-   <img src="https://raw.githubusercontent.com/Aminhafis/Aminhafis/output/snake.svg" alt="snake" />
-</p>
 
 ---
 
-## 🐍 Watch My Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aminhafis/Aminhafis/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
-</p>
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aminhafis/Aminhafis/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aminhafis/Aminhafis/raw/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Aminhafis/Aminhafis/raw/output/github-snake.svg">
+</picture>
+
 
 ---
 
