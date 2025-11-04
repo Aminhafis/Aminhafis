@@ -9,12 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="coding meme"/>
-</p>
-
----
-
 <!-- Stats, streak, and snake -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aminhafis&show_icons=true&theme=radical" height="185"/>
@@ -29,7 +23,7 @@
 
 ##  About Me
 
-- **MERN Stack** dev (React, Node.js, API, MongoDB, Tailwind)
+- MERN Stack dev (React, Node.js, API, MongoDB, Tailwind)
 -  Passion for pixel-perfect UI, modern frontend, and scalable apps
 -  Always learning, open to open-source collabs and team projects
 -  Fun fact: Love automating workflows and building dev productivity tools!
