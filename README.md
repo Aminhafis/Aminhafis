@@ -30,7 +30,7 @@
 ---
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Aminhafis/Aminhafis/blob/output/github-snake.svg)
+![Snake animation](https://cdn.jsdelivr.net/gh/Aminhafis/Aminhafis@output/github-snake.svg)
 
 
 ---
