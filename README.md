@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="35"/>, I'm Amin!</h1>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0eabfc&width=435&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+UI+%7C+Modern+Apps+%7C+Open+Source" alt="Typing SVG" /></p>
+<h1 align="center">Hi 👋🏻!</h1>
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVzNnEwMHU4b2c0YWRreDI0ZHdrdXdudjV5MnJwNGRsdnU0YjRjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Typing SVG" /></p>
 
 ---
 
