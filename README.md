@@ -21,6 +21,16 @@
 
 ---
 
+## 🐍 Watch My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aminhafis/Aminhafis/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</p>
+
+---
+
+---
+
 ##  About Me
 
 - MERN Stack dev (React, Node.js, API, MongoDB, Tailwind)
