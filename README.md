@@ -1,17 +1,31 @@
-<h1 align="start">Hi 👋🏻!</h1>
+# Amin Hafis
 
+Applied Informatics (*Angewandte Informatik*) student at Hochschule Weihenstephan-Triesdorf (HSWT) in Bavaria, Germany. Full-stack web developer working primarily with React, Node.js, Express, MongoDB, and PostgreSQL (pgvector).
 
-<p align="start">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git" height="50" />
-  <p align="end"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVzNnEwMHU4b2c0YWRreDI0ZHdrdXdudjV5MnJwNGRsdnU0YjRjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Typing SVG" /></p>
+Currently seeking a Werkstudent role in software or web development (15–20 hours/week) in the Munich / Freising area or remote.
 
-</p>
+---
 
+### Featured Projects
 
+- **[Am Bookstore](https://github.com/Aminhafis/Am-Bookstore)** — Full-stack MERN e-commerce application with role-based JWT authentication, cart state management, and product CRUD.
+- **[Travel Support RAG](https://travel-support-rag.vercel.app)** ([Repository](https://github.com/Aminhafis/travel-support-rag)) — Customer support service using semantic search and PostgreSQL pgvector for grounded query responses.
+- **[Highway Delite](https://github.com/Aminhafis/highway-delite)** — Travel experience booking web application with debounced autocomplete search and REST API integration.
+- **[Aa-haram Food Delivery](https://github.com/Aminhafis/Aa-haram-food-delivery)** — Food ordering interface built with React 18, Vite, Tailwind CSS, and shadcn/ui.
+- **[Recipe Finder](https://github.com/Aminhafis/recipe-finder)** — Ingredient-based recipe search application integrating TheMealDB API.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aminhafis/Aminhafis/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aminhafis/Aminhafis/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aminhafis/Aminhafis/output/github-snake.svg">
-</picture>
+---
 
+### Technical Skills
+
+- **Frontend:** React.js, Tailwind CSS, Vite, Redux.js, HTML5, CSS3, shadcn/ui
+- **Backend & APIs:** Node.js, Express.js, REST APIs, JSON Web Tokens (JWT)
+- **Databases & Vector Search:** MongoDB, PostgreSQL, pgvector
+- **Tooling:** Git, GitHub, Postman, npm, Vercel
+
+---
+
+### Contact
+
+- **Email:** aminhafis2@gmail.com
+- **LinkedIn:** [linkedin.com/in/amin-hafis](https://linkedin.com)
